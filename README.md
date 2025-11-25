@@ -17,22 +17,22 @@
 
 2. All the API documentation are provided for you to be used throughout the interview. Please refer to the [Assignment Details](#assignment-details) below.
 
-2. You will have **_1-hour time frame_** to develop the product. This template is given to you to ease your setup, however you are **_required to use Typescript and Tailwind CSS_** throughout the development.
+3. You will have **_1-hour time frame_** to develop the product. This template is given to you to ease your setup, however you are **_required to use Typescript and Tailwind CSS_** throughout the development.
 
-3. Other than provided dependencies, you may add other dependencies which you see fit to make this development successful.
+4. Other than provided dependencies, you may add other dependencies which you see fit to make this development successful.
 
-4. You can add other enhancements as you see fit as a bonus.
+5. You can add other enhancements as you see fit as a bonus.
 
-5. After 1-hour session ended, you need to push your changes to Github.
+6. After 1-hour session ended, you need to push your changes to Github.
 
 > If it's flipping hamburgers at McDonald's, be the best hamburger flipper in the world. Whatever it is you do you have to master your craft. -Snoop Dog-
 
 ## Assignment Details
 
-For interview purpose, you need to incorporate two endpoints, which are provided in the documentation respectively:
+For interview purpose, you need to incorporate two endpoints:
 
-- **_Popular Movie Listing_**: https://developer.themoviedb.org/reference/movie-popular-list
-- **_Movie Details_**: https://developer.themoviedb.org/reference/movie-details
+- **_Popular Movie Listing_**: https://api.themoviedb.org/3/movie/popular
+- **_Movie Details_**: https://api.themoviedb.org/3/movie/{movie_id}
 
 The bearer token has been provided to you inside `.env` file.
 
